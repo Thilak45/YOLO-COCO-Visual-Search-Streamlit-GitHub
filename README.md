@@ -1,4 +1,4 @@
-# YOLO-COCO-Visual-Search-Streamlit-GitHub# YOLO-COCO-Visual-Search-Streamlit-GitHub-Completion-requirements.# YOLOv11 Image Search using Streamlit
+# YOLO-COCO-Visual-Search-Streamlit-GitHub
 
 ##  Project Title
 **YOLOv11-Based Image Search and Object Detection Web Application**
